@@ -1,33 +1,43 @@
 [
     {
-      "id": 12345,
-      "cover": "https://i.ibb.co/SmWdszK/blogcover.jpg",
+      "id": 1,
+      "cover": "../src/assets/images/1.jpg",
       "title": "The Secret Garden",
       "author": "Samantha Green",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "../src/assets/images/boy1.png",
       "posted_date": "2024-03-15",
-      "reading_time": 10,
-      "hashtags": ["#fiction", "#gardening", "#magic"]
+      "reading_time": 5,
+      "hashtags": ["#fiction", "#gardening"]
     },
     {
-      "id": 67890,
-      "cover": "https://i.ibb.co/SmWdszK/blogcover.jpg",
+      "id": 2,
+      "cover": "../src/assets/images/2.png",
       "title": "Beyond the Stars",
       "author": "Jason Anderson",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "../src/assets/images/boy2.png",
       "posted_date": "2024-03-16",
-      "reading_time": 15,
-      "hashtags": ["#sciencefiction", "#adventure", "#space"]
+      "reading_time": 10,
+      "hashtags": [ "#adventure", "#space"]
     },
     {
-      "id": 24680,
-      "cover": "https://i.ibb.co/SmWdszK/blogcover.jpg",
+      "id": 3,
+      "cover": "../src/assets/images/3.png",
       "title": "The Lost Kingdom",
       "author": "Emily Johnson",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "../src/assets/images/girl1.jpg",
       "posted_date": "2024-03-17",
+      "reading_time": 15,
+      "hashtags": ["#fantasy", "#adventure"]
+    },
+    {
+      "id": 4,
+      "cover": "../src/assets/images/4.jpg",
+      "title": "Mystery of the Sphinx",
+      "author": "David Smith",
+      "author_img": "../src/assets/images/girl2.jpg",
+      "posted_date": "2024-03-18",
       "reading_time": 20,
-      "hashtags": ["#fantasy", "#adventure", "#magic"]
+      "hashtags": ["#mystery", "#history"]
     }
   ]
   
